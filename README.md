@@ -1,1 +1,4 @@
-# Raytracing_Calculs_paralleles_JALLAIS_LETONDAL_TOUBHANS_MONNIER
+JALLAIS Bastien
+TOUBHANS Fabien
+LETONDAL Titouan
+MONNIER Alan
